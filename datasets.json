@@ -12145,6 +12145,199 @@
             "available": false,
             "activities": {},
             "boundaries": []
+        },
+        "1life/opendata": {
+            "dataset-site-url": "https://booking.1life.co.uk/OpenActive/",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/1Life-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/1Life-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/1Life-live-facility-uses",
+              "live-slots":"https://opendata.leisurecloud.live/api/feeds/1Life-live-slots"
+            }
+        },
+        "activenewham/opendata": {
+            "dataset-site-url": "https://api.activenewham.org.uk/OpenActive/",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/ActiveNewham-live-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/ActiveNewham-live-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/ActiveNewham-live-live-facility-uses",
+              "live-slots":"https://opendata.leisurecloud.live/api/feeds/ActiveNewham-live-live-slots"
+            }
+        },
+        "ashfordleisuretrust/opendata": {
+            "dataset-site-url": "https://ashfordleisuretrust.leisurecloud.net/OpenActive/",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/AshfordLeisureTrust-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/AshfordLeisureTrust-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/AshfordLeisureTrust-live-facility-uses",
+              "slots":"https://opendata.leisurecloud.live/api/feeds/AshfordLeisureTrust-live-slots"
+            }
+        },
+        "blackpool/opendata": {
+            "dataset-site-url": "https://webbookings.blackpool.gov.uk/OpenActive/",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/Blackpool-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/Blackpool-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/Blackpool-live-facility-uses",
+              "slots":"https://opendata.leisurecloud.live/api/feeds/Blackpool-live-slots"
+            }
+        },
+        "brioleisure/opendata": {
+            "dataset-site-url": "https://onlinebooking.brioleisure.org/OpenActive/",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/BrioLeisure-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/BrioLeisure-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/BrioLeisure-live-facility-uses",
+              "slots":"https://opendata.leisurecloud.live/api/feeds/BrioLeisure-live-slots"
+            }
+        },
+        "blackburnwithdarwen/opendata": {
+            "dataset-site-url": "https://blackburnwithdarwen-openactive.legendonlineservices.co.uk/openactive",
+            "data-urls": {
+              "session-series":"https://blackburnwithdarwen-openactive.legendonlineservices.co.uk/api/sessions",
+              "facility-uses":"https://blackburnwithdarwen-openactive.legendonlineservices.co.uk/api/facility-uses",
+              "slots":"https://blackburnwithdarwen-openactive.legendonlineservices.co.uk/api/facility-uses/events"
+            }
+        },
+        "calderdale/opendata": {
+            "dataset-site-url": "https://sportonline.calderdale.gov.uk/OpenActive/",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/Calderdale-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/Calderdale-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/Calderdale-live-facility-uses",
+              "slots":"https://opendata.leisurecloud.live/api/feeds/Calderdale-live-slots"
+            }
+        },
+        "colchester/opendata": {
+            "dataset-site-url": "https://leisureworldmembership.leisurecloud.net/OpenActive/",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/ColchesterLeisureWorld-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/ColchesterLeisureWorld-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/ColchesterLeisureWorld-live-facility-uses",
+              "slots":"https://opendata.leisurecloud.live/api/feeds/ColchesterLeisureWorld-live-slots"
+            }
+        },
+        "exercise-anywhere/opendata": {
+            "dataset-site-url": "https://opendata.exercise-anywhere.com/",
+            "data-urls": {
+              "events":"https://opendata.exercise-anywhere.com/api/rpde/events",
+              "session-series":"https://opendata.exercise-anywhere.com/api/rpde/session-series",
+              "scheduled-sessions":"https://opendata.exercise-anywhere.com/api/rpde/scheduled-sessions"
+            }
+        },
+        "fusion-lifestyle/opendata": {
+            "dataset-site-url": "https://opendata.fusion-lifestyle.com/OpenActive/",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/fusion-lifestyle-fl-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/fusion-lifestyle-fl-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/fusion-lifestyle-fl-live-facility-uses",
+              "slots":"https://opendata.leisurecloud.live/api/feeds/fusion-lifestyle-fl-live-slots"
+            }
+        },
+        "halo/opendata": {
+            "dataset-site-url": "https://halo-openactive.legendonlineservices.co.uk/openactive",
+            "data-urls": {
+              "session-series":"https://halo-openactive.legendonlineservices.co.uk/api/sessions",
+              "facility-uses":"https://halo-openactive.legendonlineservices.co.uk/api/facility-uses",
+              "slots":"https://halo-openactive.legendonlineservices.co.uk/api/facility-uses/events"
+            }
+        },
+        "hsv/opendata": {
+            "dataset-site-url": "https://hsvonline.herts.ac.uk/OpenActive/",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/HSV-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/HSV-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/HSV-live-facility-uses",
+              "slots":"https://opendata.leisurecloud.live/api/feeds/HSV-live-slots"
+            }
+        },
+        "led/opendata": {
+            "dataset-site-url": "https://mws.ledleisure.co.uk/OpenActive/",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/LED-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/LED-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/LED-live-facility-uses",
+              "slots":"https://opendata.leisurecloud.live/api/feeds/LED-live-slots"
+            }
+        },
+        "lifeleisure/opendata": {
+            "dataset-site-url": "",
+            "data-urls": {
+              "sessions":"https://lifeleisure-openactive.legendonlineservices.co.uk/api/sessions",
+              "facility-uses":"https://lifeleisure-openactive.legendonlineservices.co.uk/api/facility-uses",
+              "events":"https://lifeleisure-openactive.legendonlineservices.co.uk/api/facility-uses/events"
+            }
+        },
+        "lincsinspire/opendata": {
+            "dataset-site-url": "https://ncc.leisurecloud.net/OpenActive/",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/NottinghamCC-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/NottinghamCC-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/NottinghamCC-live-facility-uses",
+              "slots":"https://opendata.leisurecloud.live/api/feeds/NottinghamCC-live-slots"
+            }
+        },
+        "parkwoord/opendata": {
+            "dataset-site-url": "https://leisurecentre-openactive.legendonlineservices.co.uk/openactive",
+            "data-urls": {
+              "session-series":"https://leisurecentre-openactive.legendonlineservices.co.uk/api/sessions",
+              "facility-uses":"https://leisurecentre-openactive.legendonlineservices.co.uk/api/facility-uses",
+              "slots":"https://leisurecentre-openactive.legendonlineservices.co.uk/api/facility-uses/events"
+            }
+        },
+        "redbridge/opendata": {
+            "dataset-site-url": "https://rslonline.leisurecloud.net/OpenActive/",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/RedbridgeSportsCentre-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/RedbridgeSportsCentre-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/RedbridgeSportsCentre-live-facility-uses",
+              "slots":"https://opendata.leisurecloud.live/api/feeds/RedbridgeSportsCentre-live-slots"
+            }
+        },
+        "pulsedursley/opendata": {
+            "dataset-site-url": "https://thepulse-dursley.leisurecloud.net/OpenActive/",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/ThePulse-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/ThePulse-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/ThePulse-live-facility-uses",
+              "slots":"https://opendata.leisurecloud.live/api/feeds/ThePulse-live-slots"
+            }
+        },
+        "tmactive/opendata": {
+            "dataset-site-url": "https://tmactive.leisurecloud.net/OpenActive/",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/TMActive-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/TMActive-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/TMActive-live-facility-uses",
+              "slots":"https://opendata.leisurecloud.live/api/feeds/TMActive-live-slots"
+            }
+        },
+        "visionredbridge/opendata": {
+            "dataset-site-url": "https://visionrcl.leisurecloud.net/OpenActive/",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/VisionRedbridge-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/VisionRedbridge-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/VisionRedbridge-live-facility-uses",
+              "slots":"https://opendata.leisurecloud.live/api/feeds/VisionRedbridge-live-slots"
+            }
+        },
+        "wvactive/opendata": {
+            "dataset-site-url": "https://wvactive.leisurecloud.net/OpenActive/",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/WVActive-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/WVActive-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/WVActive-live-facility-uses",
+              "slots":"https://opendata.leisurecloud.live/api/feeds/WVActive-live-slots"
+            }
+        },
+        "ymcastpauls/opendata": {
+            "dataset-site-url": "https://ymcaspg.leisurecloud.net/OpenActive/",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/YMCASTPaulsGroup-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/YMCASTPaulsGroup-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/YMCASTPaulsGroup-live-facility-uses",
+              "slots":"https://opendata.leisurecloud.live/api/feeds/YMCASTPaulsGroup-live-slots"
+            }
         }
     }
 }
