@@ -12338,6 +12338,76 @@
               "facility-uses":"https://opendata.leisurecloud.live/api/feeds/YMCASTPaulsGroup-live-facility-uses",
               "slots":"https://opendata.leisurecloud.live/api/feeds/YMCASTPaulsGroup-live-slots"
             }
+        },
+        "gll/opendata": {
+            "dataset-site-url": "",
+            "data-urls": {
+              "sessions":"https://gll-openactive.legendonlineservices.co.uk/api/sessions",
+              "facility-uses":"https://gll-openactive.legendonlineservices.co.uk/api/facility-uses",
+              "events":"https://gll-openactive.legendonlineservices.co.uk/api/facility-uses/events"
+            }
+        },
+        "serco/opendata": {
+            "dataset-site-url": "",
+            "data-urls": {
+              "sessions":"https://serco-openactive.legendonlineservices.co.uk/api/sessions",
+              "facility-uses":"https://serco-openactive.legendonlineservices.co.uk/api/facility-uses",
+              "events":"https://serco-openactive.legendonlineservices.co.uk/api/facility-uses/events"
+            }
+        },
+        "jubileehall/opendata": {
+            "dataset-site-url": "",
+            "data-urls": {
+              "sessions":"https://jubileehall-openactive.legendonlineservices.co.uk/api/sessions",
+              "facility-uses":"https://jubileehall-openactive.legendonlineservices.co.uk/api/facility-uses",
+              "events":"https://jubileehall-openactive.legendonlineservices.co.uk/api/facility-uses/events"
+            }
+        },
+        "classfinder/opendata": {
+            "dataset-site-url": "",
+            "data-urls": {
+              "session-series":"https://www.classfinder.org.uk/api/public/classes"
+            }
+        },
+        "everyoneactive-lc/opendata": {
+            "dataset-site-url": "",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/EveryoneActive-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/EveryoneActive-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/EveryoneActive-live-facility-uses",
+              "slots":"https://opendata.leisurecloud.live/api/feeds/EveryoneActive-live-slots"
+            }
+        },
+        "gladstonesales/opendata": {
+            "dataset-site-url": "",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/GladstoneSales-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/GladstoneSales-live-scheduled-sessions"
+            }
+        },
+        "traffordleisure/opendata": {
+            "dataset-site-url": "",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/TraffordLeisure-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/TraffordLeisure-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/TraffordLeisure-live-facility-uses",
+              "slots":"https://opendata.leisurecloud.live/api/feeds/TraffordLeisure-live-slots"
+            }
+        },
+        "everyoneactive-uat-lc/opendata": {
+            "dataset-site-url": "",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/EveryoneActiveUAT-uat-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/EveryoneActiveUAT-uat-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/EveryoneActiveUAT-uat-facility-uses",
+              "slots":"https://opendata.leisurecloud.live/api/feeds/EveryoneActiveUAT-uat-slots"
+            }
+        },
+        "upshot/opendata": {
+            "dataset-site-url": "",
+            "data-urls": {
+              "all":"https://app.upshot.org.uk/api/v0/openactive/v1.0/"
+            }
         }
     }
 }
