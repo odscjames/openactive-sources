@@ -13,6 +13,12 @@
             "publisher-name": "1610 Active",
             "publisher-url": "https://1610.org.uk",
             "data-url": "https://opendata.leisurecloud.live/api/feeds/1610-live-session-series",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/1610-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/1610-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/1610-live-facility-uses",
+              "live-slots":"https://opendata.leisurecloud.live/api/feeds/1610-live-slots"
+            },
             "documentation-url": "https://github.com/gladstonemrm/1610",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -34,6 +40,9 @@
             "publisher-name": "Makesweat",
             "publisher-url": "https://makesweat.com",
             "data-url": "https://makesweat.com/service/openactive.php",
+            "data-urls": {
+              "session":"https://makesweat.com/service/openactive.php"
+            },
             "documentation-url": "https://github.com/makesweat/opendata/",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -875,6 +884,9 @@
             "publisher-name": "GLL",
             "publisher-url": "https://www.better.org.uk",
             "data-url": "https://www.better.org.uk/odi/sessions.json",
+            "data-urls": {
+              "all":"https://www.better.org.uk/odi/sessions.json"
+            },
             "documentation-url": "https://github.com/gll-better/opendata",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -1291,6 +1303,9 @@
             "publisher-name": "Bookwhen Ltd",
             "publisher-url": "https://bookwhen.com",
             "data-url": "https://bookwhen.com/api/openactive/event_types",
+            "data-urls": {
+              "all":"https://bookwhen.com/api/openactive/event_types"
+            },
             "documentation-url": "https://github.com/bookwhen/opendata",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -2890,6 +2905,9 @@
             "publisher-name": "British Cycling",
             "publisher-url": "https://www.britishcycling.org.uk",
             "data-url": "http://api.letsride.co.uk/public/v1/rides",
+            "data-urls": {
+              "all":"http://api.letsride.co.uk/public/v1/rides"
+            },
             "documentation-url": "https://github.com/britishcycling-oa/opendata",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -4720,6 +4738,9 @@
             "publisher-name": "British Orienteering",
             "publisher-url": "https://www.britishorienteering.org.uk/",
             "data-url": "https://www.britishorienteering.org.uk/fullfixturesjson.php",
+            "data-urls": {
+              "all":"https://www.britishorienteering.org.uk/fullfixturesjson.php"
+            },
             "documentation-url": "https://github.com/britishorienteering/opendata",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -4740,6 +4761,9 @@
             "publisher-name": "British Triathlon",
             "publisher-url": "https://www.britishtriathlon.org",
             "data-url": "https://api.britishtriathlon.org/openactive/v1/events",
+            "data-urls": {
+              "all":"https://api.britishtriathlon.org/openactive/v1/events"
+            },
             "documentation-url": "https://github.com/britishtriathlon/openactive",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -6268,6 +6292,9 @@
             "publisher-name": "England Netball",
             "publisher-url": "https://www.englandnetball.co.uk",
             "data-url": "https://api.englandnetball.co.uk/api/openactive/sessions",
+            "data-urls": {
+              "all":"https://api.englandnetball.co.uk/api/openactive/sessions"
+            },
             "documentation-url": "https://github.com/england-netball/opendata",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -6556,6 +6583,9 @@
             "publisher-name": "Everyone Active - Sports and Leisure Management LTD",
             "publisher-url": "https://www.everyoneactive.com",
             "data-url": "http://everyoneactivelive-openactive.azurewebsites.net/api/sessions",
+            "data-urls": {
+              "all":"http://everyoneactivelive-openactive.azurewebsites.net/api/sessions"
+            },
             "documentation-url": "https://github.com/SportsAndLeisureManagement/opendata",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -6978,6 +7008,9 @@
             "publisher-name": "GO Mammoth",
             "publisher-url": "https://www.gomammoth.co.uk",
             "data-url": "https://reports.gomammoth.co.uk/api/OpenData/Leagues?afterTimestamp=0",
+            "data-urls": {
+              "all":"https://reports.gomammoth.co.uk/api/OpenData/Leagues?afterTimestamp=0"
+            },
             "documentation-url": "https://github.com/gomammoth/opendata",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -6998,6 +7031,9 @@
             "publisher-name": "GoodGym",
             "publisher-url": "https://www.goodgym.org",
             "data-url": "https://www.goodgym.org/api/happenings",
+            "data-urls": {
+              "all":"https://www.goodgym.org/api/happenings"
+            },
             "documentation-url": "https://github.com/goodgym-oa/opendata",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -7452,6 +7488,9 @@
             "publisher-name": "Lawn Tennis Association",
             "publisher-url": "https://www.lta.org.uk",
             "data-url": "https://api.clubspark.uk/odi/public/courses",
+            "data-urls": {
+              "all":"https://api.clubspark.uk/odi/public/courses"
+            },
             "documentation-url": "https://github.com/lawntennisassociation/opendata",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -9253,6 +9292,12 @@
             "publisher-name": "Nottingham City Council",
             "publisher-url": "https://www.activenottingham.com",
             "data-url": "https://opendata.leisurecloud.live/api/feeds/NottinghamCC-live-session-series",
+            "data-urls": {
+              "session-series":"https://opendata.leisurecloud.live/api/feeds/NottinghamCC-live-session-series",
+              "scheduled-sessions":"https://opendata.leisurecloud.live/api/feeds/NottinghamCC-live-scheduled-sessions",
+              "facility-uses":"https://opendata.leisurecloud.live/api/feeds/NottinghamCC-live-facility-uses",
+              "slots":"https://opendata.leisurecloud.live/api/feeds/NottinghamCC-live-slots"
+            },
             "documentation-url": "https://github.com/gladstonemrm/NottinghamCC",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -9274,6 +9319,9 @@
             "publisher-name": "Open Sessions",
             "publisher-url": "https://opensessions.io",
             "data-url": "https://opensessions.io/api/rpde/session-series",
+            "data-urls": {
+              "all":"https://opensessions.io/api/rpde/session-series"
+            },
             "documentation-url": "https://github.com/opensessions/opendata",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -10188,6 +10236,9 @@
             "publisher-name": "Our Parks",
             "publisher-url": "http://ourparks.org.uk/",
             "data-url": "https://ourparks.org.uk/getSessions",
+            "data-urls": {
+              "all":"https://ourparks.org.uk/getSessions"
+            },
             "documentation-url": "https://github.com/ourparks/opendata",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -10208,6 +10259,9 @@
             "publisher-name": "Table Tennis England",
             "publisher-url": "http://tabletennisengland.co.uk/",
             "data-url": "http://www.pingengland.co.uk/realtime.php",
+            "data-urls": {
+              "all":"http://www.pingengland.co.uk/realtime.php"
+            },
             "documentation-url": "https://github.com/table-tennis-england/opendata",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -10228,6 +10282,9 @@
             "publisher-name": "Playwaze Ltd",
             "publisher-url": "https://playwaze.com",
             "data-url": "https://playwaze.com/Webservices/Playwazeservice.svc/Groupplay/GetOpenActiveData",
+            "data-urls": {
+              "all":"https://playwaze.com/Webservices/Playwazeservice.svc/Groupplay/GetOpenActiveData"
+            },
             "documentation-url": "https://github.com/playwaze/opendata",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -10248,6 +10305,9 @@
             "publisher-name": "England Athletics",
             "publisher-url": "https://www.runtogether.co.uk",
             "data-url": "https://api.runtogether.co.uk/odi/public/courses",
+            "data-urls": {
+              "all":"https://api.runtogether.co.uk/odi/public/courses"
+            },
             "documentation-url": "https://github.com/runtogether/opendata",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -11871,6 +11931,9 @@
             "publisher-name": "Salford Community Leisure",
             "publisher-url": "https://www.salfordcommunityleisure.co.uk",
             "data-url": "https://salford-lc-openactive.herokuapp.com",
+            "data-urls": {
+              "all":"https://salford-lc-openactive.herokuapp.com"
+            },
             "documentation-url": "https://github.com/salfordcommunityleisure/opendata",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -12001,6 +12064,9 @@
             "publisher-name": "SportStarta.com",
             "publisher-url": "https://www.sportstarta.com",
             "data-url": "http://www.devapi.lewishamparklife.co.uk/api/games/get_active_single_game",
+            "data-urls": {
+              "all":"http://www.devapi.lewishamparklife.co.uk/api/games/get_active_single_game"
+            },
             "documentation-url": "https://github.com/SportStarta/opendata",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
@@ -12066,6 +12132,9 @@
             "publisher-name": "Table Tennis England",
             "publisher-url": "https://www.tabletennisengland.co.uk",
             "data-url": "https://www.tabletennis365.com/TableTennisEngland/API/OpenActive/v1/Clubs",
+            "data-urls": {
+              "all":"https://www.tabletennis365.com/TableTennisEngland/API/OpenActive/v1/Clubs"
+            },
             "documentation-url": "https://github.com/TableTennis365/opendata",
             "license-name": "Creative Commons Attribution Licence (CC-BY v4.0)",
             "license-url": "https://creativecommons.org/licenses/by/4.0/",
